@@ -1,0 +1,1 @@
+# Nifty-50-equal-weight-and-market-cap-weight-Distribution-Analyser
